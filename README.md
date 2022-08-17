@@ -1,8 +1,8 @@
-# Holotrak Device Cache middleware
+# Nest JS Boilerplate
 
 ## Description
 
-This middleware is used to cache the device information for all devices available in Losant server.
+Create seamless apis with ease.
 
 ## Features
 
